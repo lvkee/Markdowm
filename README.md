@@ -206,7 +206,7 @@ eg.
 
 eg.
 
-![alt 高数作业](C:\Users\19869\OneDrive\桌面\TIM截图20200409144840.png)
+![alt 高数作业](https://github.com/lvkee/Markdowm/blob/master/TIM%E6%88%AA%E5%9B%BE20200409144840.png)
 
 ![alt 知乎回答](https://pic2.zhimg.com/60e23ce675a4d03c45d2df6e36341161_b.jpg "PEACE")
 
